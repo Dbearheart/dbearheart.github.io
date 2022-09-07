@@ -1,16 +1,32 @@
-.nav{
-    background-color: yellowgreen;
-    height: 125px;
+h1{
+    color: black;
+    -webkit-text-stroke: 1px #c4c4c4;
 }
-.right{
-    background-color: red;
-    height: 500px;
+h2{
+    color: black;
+    -webkit-text-stroke: 1px #b4b4b4;
 }
-.left{
-    background-color: blue;
-    height: 500px;
+.speakers{
+    font-size: 17px;
 }
-.footer{
-    background-color: green;
+.hero{
+    font-size: 25px;
+    -webkit-text-stroke: 1px #a9a9a9;
+}
+.bg-jumbotron{
+    background: url("https://www.imbanaco.com/wp-content/uploads/2019/08/cerebro_imbanaco2019.jpg")
+    center no-repeat;
+    background-size: cover;
+}
+.jumbotron{
     height: 200px;
+    background-color: #ffffff;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.text-break{
+    color: black;
+}
+.img{
+    float: right;
 }
