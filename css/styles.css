@@ -1,0 +1,16 @@
+.nav{
+    background-color: yellowgreen;
+    height: 125px;
+}
+.right{
+    background-color: red;
+    height: 500px;
+}
+.left{
+    background-color: blue;
+    height: 500px;
+}
+.footer{
+    background-color: green;
+    height: 200px;
+}
