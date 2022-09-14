@@ -4,14 +4,12 @@ h1{
 }
 h2{
     color: black;
-    -webkit-text-stroke: 1px #b4b4b4;
 }
 .speakers{
     font-size: 17px;
 }
 .hero{
     font-size: 25px;
-    -webkit-text-stroke: 1px #a9a9a9;
 }
 .bg-jumbotron{
     background: url("")
