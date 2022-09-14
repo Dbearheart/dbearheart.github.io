@@ -1,0 +1,56 @@
+h1{
+    color: black;
+    -webkit-text-stroke: 1px #c4c4c4;
+}
+h2{
+    color: black;
+}
+.projectss{
+    font-size: 17px;
+}
+.hero{
+    font-size: 25px;
+}
+.bg-jumbotron{
+    background: url("")
+    center no-repeat;
+    background-size: cover;
+}
+.jumbotron{
+    height: 200px;
+    background-color: #ffffff;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+.text-break{
+    color: black;
+}
+.img{
+    float: right;
+}
+ion-icon{
+    align-items: center;
+    font-size: 40px;
+    color: #000000;
+    transition: color 0.6s;
+  }
+  ion-icon:hover{
+    color: #9a9a9a;
+  }
+  ul{
+    list-style: none;
+    margin: 0;
+    padding: 50px;
+    text-align: center;
+  }
+  li{
+    display: inline-block;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  a{
+    display: inline-block;
+    color: #000000; 
+    text-decoration: none;
+    transition: color 0.3s;
+  }
