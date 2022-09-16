@@ -1,11 +1,11 @@
 h1{
     color: black;
-    -webkit-text-stroke: 1px #c4c4c4;
+    font-family: 'Michroma', sans-serif;
+
 }
 h2{
     color: black;
-    font-family: 'Bungee', cursive;
-font-family: 'Chakra Petch', sans-serif;
+    font-family: 'Audiowide', cursive;
 }
 .projectss{
     font-size: 17px;
@@ -55,9 +55,6 @@ ion-icon{
     color: #000000; 
     text-decoration: none;
     transition: color 0.3s;
-  }
-  .link{
-    font-family: 'Anton', sans-serif;
   }
   .copyright{
     font-family: 'Press Start 2P', cursive;
