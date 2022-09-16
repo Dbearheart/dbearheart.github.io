@@ -4,6 +4,8 @@ h1{
 }
 h2{
     color: black;
+    font-family: 'Bungee', cursive;
+font-family: 'Chakra Petch', sans-serif;
 }
 .projectss{
     font-size: 17px;
@@ -35,7 +37,7 @@ ion-icon{
     transition: color 0.6s;
   }
   ion-icon:hover{
-    color: #9a9a9a;
+    color: #ff0000;
   }
   ul{
     list-style: none;
@@ -53,4 +55,10 @@ ion-icon{
     color: #000000; 
     text-decoration: none;
     transition: color 0.3s;
+  }
+  .link{
+    font-family: 'Anton', sans-serif;
+  }
+  .copyright{
+    font-family: 'Press Start 2P', cursive;
   }

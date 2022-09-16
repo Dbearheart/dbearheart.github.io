@@ -1,9 +1,11 @@
 h1{
     color: black;
-    -webkit-text-stroke: 1px #c4c4c4;
+    font-family: 'Michroma', sans-serif;
+
 }
 h2{
     color: black;
+    font-family: 'Audiowide', cursive;
 }
 .projectss{
     font-size: 17px;
@@ -35,7 +37,7 @@ ion-icon{
     transition: color 0.6s;
   }
   ion-icon:hover{
-    color: #9a9a9a;
+    color: #ff0000;
   }
   ul{
     list-style: none;
@@ -53,4 +55,7 @@ ion-icon{
     color: #000000; 
     text-decoration: none;
     transition: color 0.3s;
+  }
+  .copyright{
+    font-family: 'Press Start 2P', cursive;
   }
